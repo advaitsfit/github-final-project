@@ -13,3 +13,6 @@ It then calculates and displays the simple interest.
 
 ## Author
 Advait Dhamnaskar
+
+
+This repository contains Git practice examples.
