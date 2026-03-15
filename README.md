@@ -16,3 +16,5 @@ Advait Dhamnaskar
 
 
 This repository contains Git practice examples.
+
+This line fixes a typo.
