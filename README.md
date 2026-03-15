@@ -15,6 +15,3 @@ It then calculates and displays the simple interest.
 Advait Dhamnaskar
 
 
-This repository contains Git practice examples.
-
-This line fixes a typo.
