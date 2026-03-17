@@ -21,3 +21,12 @@ Instances of abusive behavior may be reported to project maintainers.
 
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant.
+
+## Enforcement Guidelines
+
+Community leaders will follow these guidelines in determining consequences for any action they deem in violation of this Code of Conduct:
+
+1. Correction – A private warning.
+2. Warning – A formal warning with consequences.
+3. Temporary Ban – Temporary restriction.
+4. Permanent Ban – Permanent removal from community.
